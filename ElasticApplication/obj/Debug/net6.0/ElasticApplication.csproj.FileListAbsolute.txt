@@ -1,0 +1,36 @@
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticApplication.exe
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticApplication.deps.json
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticApplication.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticApplication.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticLibrary.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\bin\Debug\net6.0\ElasticLibrary.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.CopyComplete
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\refint\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ElasticApplication.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticApplication\obj\Debug\net6.0\ref\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticApplication.exe
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticApplication.deps.json
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticApplication.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticApplication.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticLibrary.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\bin\Debug\net6.0\ElasticLibrary.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.csproj.CopyComplete
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\refint\ElasticApplication.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ElasticApplication.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\ElasticCollection\ElasticApplication\obj\Debug\net6.0\ref\ElasticApplication.dll

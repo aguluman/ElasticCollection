@@ -1,0 +1,10 @@
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\bin\Debug\netstandard2.0\ElasticLibrary.deps.json
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\bin\Debug\netstandard2.0\ElasticLibrary.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\bin\Debug\netstandard2.0\ElasticLibrary.pdb
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.dll
+C:\Users\Chikosolu Akunyili\RiderProjects\Task 5\ElasticLibrary\obj\Debug\netstandard2.0\ElasticLibrary.pdb

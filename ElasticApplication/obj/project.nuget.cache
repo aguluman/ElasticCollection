@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NTyAVxdyyUTC0O5FRiGLdz8UeNX8DUZ6GOeryUFnMS3gPBa/6sCkQRM+DHcBY695NFyFmTAAUrwULGRih1YWhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chikosolu Akunyili\\RiderProjects\\ElasticCollection\\ElasticApplication\\ElasticApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chikosolu Akunyili\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
